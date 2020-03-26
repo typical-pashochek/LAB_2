@@ -1,0 +1,3 @@
+﻿  LAB_5_func.c
+D:\Projects_in_c_comp\LAB_5_\LAB_5_func.c(40,14): warning C4013: length: нет определения; предполагается "extern" с возвратом типа "int"
+  LAB_5_.vcxproj -> D:\Projects_in_c_comp\LAB_5_\Debug\LAB_5_.exe
